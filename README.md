@@ -14,4 +14,7 @@ This repository contains code files I've created while learning machine learning
 
 ### model02-BGC_Guesser - Improved Text Color Guesser
 - Date: 16th July, 2023
-- Description: An enhanced text color guesser for different color backgrounds. The goal is to implement "real" training this time to improve its performance and accuracy.
+- Description: A text color guesser for different color backgrounds. You can "train" the machine in this case. The training data gets printed in console every time you press the print button.
+
+
+README.md Generated my OpenAI's ChatGPT. I had no involvements except a few minor changes.
